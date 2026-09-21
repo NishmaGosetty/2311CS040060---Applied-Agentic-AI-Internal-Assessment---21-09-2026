@@ -1,6 +1,6 @@
-# AI & LLM Laboratory Experiments
+# Applied Agentic AI Lab Internal Assessment
 
-This repository contains 12 completely isolated, independent laboratory experiments focusing on Artificial Intelligence and Large Language Models.
+This repository contains 3 completely isolated, independent laboratory experiments focusing on Artificial Intelligence and Large Language Models.
 
 These experiments are designed for a B.Tech laboratory environment and are meant to demonstrate practical applications of modern AI, LLMs, Vector Databases, Agents, and RAG architectures.
 
